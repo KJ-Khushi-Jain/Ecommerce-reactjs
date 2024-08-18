@@ -43,4 +43,4 @@
 
 <h2>Additional Information</h2>
 
-<p>If you encounter any issues or have any questions, please refer to the <a href="https://reactjs.org/docs/getting-started.html" target="_blank">ReactJS documentation</a> or feel free to open an issue in this repository.</p>
+<p>If you encounter any issues or have any questions, please refer to the <a href="https://reactjs.org/docs/getting-started.html" target="_blank">ReactJS documentation</a>.</p>
