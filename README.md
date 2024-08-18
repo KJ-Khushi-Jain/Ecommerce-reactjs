@@ -33,7 +33,7 @@
 
 <h2>Project Structure</h2>
 
-<p>The project structure is organized as follows:</p>
+<p>Your project structure should be organized as follows:</p>
 <ul>
     <li><code>src/</code> - Contains the main source code for the React application.</li>
     <li><code>public/</code> - Contains the <code>index.html</code> file and other static assets.</li>
